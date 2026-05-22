@@ -1,0 +1,12 @@
+{
+  "name": "netlify-huggingface",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "binance-api-node": "^0.12.7",
+    "coinbase-commerce-node": "^1.0.4",
+    "crypto": "^1.0.1",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
